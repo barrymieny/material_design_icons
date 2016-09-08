@@ -4,17 +4,22 @@ module MaterialDesignIcons
   module Rails
     # Creates a webfont icon tag.
     module ViewHelpers
-      # Creates an icon tag given an icon name.
+      # Returns an icon tag given a list of icon classes.
       #
       # Examples:
       #   mdi_tag('heart')
       #   # => <i class="mdi mdi-heart"></i>
       #
-      #   mdi_tag('heart', '48px')
+      #   mdi_tag('heart 48px')
       #   # => <i class="mdi mdi-heart mdi-48px"></i>
-      def mdi_tag(*names)
-        classes = names.each.map { |name| "mdi-#{name}" }
-        content_tag(:i, nil, class: ['mdi', classes].join(' '))
+      #
+      #   mdi_tag('heart 48px', class: 'red')
+      #   # => <i class="mdi mdi-heart mdi-48px red"></i>
+      def mdi_tag(classes, options = {})
+        all_classes = ['mdi']
+        all_classes.concat classes.split.each.map { |name| "mdi-#{name}" }
+        all_classes.concat Array(options.delete(:class))
+        content_tag(:i, nil, class: all_classes.join(' '))
       end
 
       # Returns the SVG source given an icon name.
@@ -22,7 +27,7 @@ module MaterialDesignIcons
       # Example:
       #   mdi_svg('heart')
       #   # => <svg>...</svg>
-      def mdi_svg(name, options={})
+      def mdi_svg(name, options = {})
         inline_svg("#{name}.svg", options)
       end
     end

@@ -23,17 +23,27 @@ Or install it yourself as:
 ### Webfont Tags
 
 ```
-mdi_tag(names)
+mdi_tag(names, class: 'class-name')
 ```
 
-You can specify a single or multiple class names:
+You can specify a single or multiple Material Design Icons class names:
 
 ```erb
-<%= mdi_tag('hexagon', '48px') %>
+<%= mdi_tag('hexagon 48px') %>
 ```
 
 ```html
 <i class="mdi mdi-hexagon mdi-48px"></i>
+```
+
+You can optionally specify additional class names:
+
+```erb
+<%= mdi_tag('hexagon 48px', class: 'orange') %>
+```
+
+```html
+<i class="mdi mdi-hexagon mdi-48px orange"></i>
 ```
 
 ### Inline SVG
