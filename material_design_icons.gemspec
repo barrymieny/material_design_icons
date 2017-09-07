@@ -15,5 +15,5 @@ Gem::Specification.new do |s|
   s.files         = `git ls-files`.split("\n")
   s.require_paths = ['lib']
 
-  s.add_dependency 'inline_svg', '~> 0.10.0'
+  s.add_dependency 'inline_svg', '~> 1.0'
 end
