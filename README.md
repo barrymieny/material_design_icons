@@ -18,7 +18,7 @@ Or install it yourself as:
 
     $ gem install material_design_icons
 
-Import the stylesheet in your application's CSS manifest (application.css):
+Import the stylesheet by adding this line to your application's CSS manifest (application.css):
 
     *= require materialdesignicons
 
