@@ -20,7 +20,7 @@ Or install it yourself as:
 
 Import the stylesheet in your application's CSS manifest (application.css):
 
-    ```*= require materialdesignicons```
+    *= require materialdesignicons
 
 ## Usage
 
