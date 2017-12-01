@@ -18,6 +18,10 @@ Or install it yourself as:
 
     $ gem install material_design_icons
 
+Import the stylesheet by referencing materialdesignicons in your application's CSS manifest (application.css):
+
+    ```*= require materialdesignicons```
+
 ## Usage
 
 ### Webfont Tags
