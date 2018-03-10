@@ -1,15 +1,1 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="24" height="24" viewBox="0 0 24.00 24.00" enable-background="new 0 0 24.00 24.00" xml:space="preserve">
-	<g>
-		<defs>
-			<rect id="SVG_CLIPPER1_" x="1.27157e-006" y="0" width="24" height="24"/>
-		</defs>
-		<clipPath id="SVG_CLIPPER2_">
-			<use xlink:href="#SVG_CLIPPER1_" overflow="visible"/>
-		</clipPath>
-		<g clip-path="url(#SVG_CLIPPER2_)">
-			<path fill="#000000" fill-opacity="1" stroke-width="1.33333" stroke-linejoin="miter" d="M 19,19L 21,19L 21,21L 19,21L 19,19 Z M 19,17L 21,17L 21,15L 19,15L 19,17 Z M 3,13L 5,13L 5,11L 3,11L 3,13 Z M 3,17L 5,17L 5,15L 3,15L 3,17 Z M 3,9L 5,9L 5,7L 3,7L 3,9 Z M 3,5L 5,5L 5,3L 3,3L 3,5 Z M 7,5L 9,5L 9,3L 7,3L 7,5 Z M 15,21L 17,21L 17,19L 15,19L 15,21 Z M 11,21L 13,21L 13,19L 11,19L 11,21 Z M 15,21L 17,21L 17,19L 15,19L 15,21 Z M 7,21L 9,21L 9,19L 7,19L 7,21 Z M 3,21L 5,21L 5,19L 3,19L 3,21 Z M 21,8C 21,5.24 18.76,3 16,3L 11,3L 11,5L 16,5C 17.65,5 19,6.35 19,8L 19,13L 21,13L 21,8 Z "/>
-		</g>
-	</g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24" height="24" viewBox="0 0 24 24"><path d="M19,19H21V21H19V19M19,17H21V15H19V17M3,13H5V11H3V13M3,17H5V15H3V17M3,9H5V7H3V9M3,5H5V3H3V5M7,5H9V3H7V5M15,21H17V19H15V21M11,21H13V19H11V21M15,21H17V19H15V21M7,21H9V19H7V21M3,21H5V19H3V21M21,8C21,5.24 18.76,3 16,3H11V5H16C17.66,5 19,6.34 19,8V13H21V8Z" /></svg>
