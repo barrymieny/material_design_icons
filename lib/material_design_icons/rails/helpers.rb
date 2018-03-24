@@ -19,7 +19,8 @@ module MaterialDesignIcons
         all_classes = ['mdi']
         all_classes.concat classes.split.each.map { |name| "mdi-#{name}" }
         all_classes.concat Array(options.delete(:class))
-        content_tag(:i, nil, class: all_classes.join(' '))
+        data = options.delete(:data)
+        content_tag(:i, nil, class: all_classes.join(' '), data: data)
       end
 
       # Returns the SVG source given an icon name.
