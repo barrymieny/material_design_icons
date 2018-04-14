@@ -1,1 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24" height="24" viewBox="0 0 24 24"><path d="M6,2H18V8H18V8L14,12L18,16V16H18V22H6V16H6V16L10,12L6,8V8H6V2M16,16.5L12,12.5L8,16.5V20H16V16.5M12,11.5L16,7.5V4H8V7.5L12,11.5M10,6H14V6.75L12,8.75L10,6.75V6Z" /></svg>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="24" height="24" viewBox="0 0 24.00 24.00" enable-background="new 0 0 24.00 24.00" xml:space="preserve">
+	<path fill="#000000" fill-opacity="1" stroke-width="1.33333" stroke-linejoin="miter" d="M 6,2L 18,2L 18,8L 17.99,8L 18,8.01L 14,12L 18,16L 17.99,16.01L 18,16.01L 18,22L 6,22L 6,16.01L 6.01,16.01L 6,16L 10,12L 6,8.01L 6.01,8L 6,8L 6,2 Z M 16,16.5L 12,12.5L 8,16.5L 8,20L 16,20L 16,16.5 Z M 12,11.5L 16,7.5L 16,4L 8,4L 8,7.5L 12,11.5 Z M 10,6L 14,6L 14,6.75001L 12,8.75001L 10,6.75001L 10,6 Z "/>
+</svg>

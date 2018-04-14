@@ -1,1 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24" height="24" viewBox="0 0 24 24"><path d="M18,8H6V6H18V8M18,11H6V9H18V11M18,14H6V12H18V14M22,4C22,2.9 21.1,2 20,2H4C2.9,2 2,2.9 2,4V16C2,17.1 2.9,18 4,18H18L22,22V4Z" /></svg>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="24" height="24" viewBox="0 0 24.00 24.00" enable-background="new 0 0 24.00 24.00" xml:space="preserve">
+	<path fill="#000000" fill-opacity="1" stroke-width="1.33333" stroke-linejoin="miter" d="M 17.9975,7.9975L 6.00125,7.9975L 6.00125,6.00125L 17.9975,6.00125L 17.9975,7.9975 Z M 17.9975,11.0012L 6.00125,11.0012L 6.00125,8.99875L 17.9975,8.99875L 17.9975,11.0012 Z M 17.9975,13.9987L 6.00125,13.9987L 6.00125,12.0025L 17.9975,12.0025L 17.9975,13.9987 Z M 21.9925,3.99875C 21.9925,2.9 21.0987,2.0025 20,2.0025L 3.99875,2.0025C 2.9,2.0025 2.0025,2.9 2.0025,3.99875L 2.0025,16.0012C 2.0025,17.1 2.9,17.9975 3.99875,17.9975L 17.9975,17.9975L 22.0025,22.0025L 21.9925,3.99875 Z "/>
+</svg>
