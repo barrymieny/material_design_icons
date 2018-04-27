@@ -1,7 +1,1 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="24" height="24" viewBox="0 0 24.00 24.00" enable-background="new 0 0 24.00 24.00" xml:space="preserve">
-	<g>
-		<path fill="#000000" fill-opacity="1" stroke-width="1.33333" stroke-linejoin="miter" d="M 21.7,13.35L 20.7,14.35L 18.65,12.3L 19.65,11.3C 19.8639,11.0904 20.2061,11.0904 20.42,11.3L 21.7,12.58C 21.9096,12.7939 21.9096,13.1361 21.7,13.35 Z M 12,18.94L 18.06,12.88L 20.11,14.93L 14.06,21L 12,21L 12,18.94 Z M 12,14C 7.58,14 4,15.79 4,18L 4,20L 10,20L 10,18.11L 14,14.11C 13.3368,14.0261 12.6684,13.9894 12,14 Z M 12,4C 9.79086,4 8,5.7909 8,8C 8,10.2091 9.79086,12 12,12C 14.2091,12 16,10.2091 16,8C 16,5.7909 14.2091,4 12,4 Z "/>
-	</g>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24" height="24" viewBox="0 0 24 24"><path d="M21.7,13.35L20.7,14.35L18.65,12.3L19.65,11.3C19.86,11.09 20.21,11.09 20.42,11.3L21.7,12.58C21.91,12.79 21.91,13.14 21.7,13.35M12,18.94L18.06,12.88L20.11,14.93L14.06,21H12V18.94M12,14C7.58,14 4,15.79 4,18V20H10V18.11L14,14.11C13.34,14.03 12.67,14 12,14M12,4C9.79,4 8,5.79 8,8C8,10.21 9.79,12 12,12C14.21,12 16,10.21 16,8C16,5.79 14.21,4 12,4Z" /></svg>
