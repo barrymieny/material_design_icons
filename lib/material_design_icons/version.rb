@@ -1,3 +1,3 @@
 module MaterialDesignIcons
-  VERSION = '2.4.85'.freeze
+  VERSION = '2.5.94'.freeze
 end
