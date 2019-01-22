@@ -2,7 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/material_design_icons.svg)](https://badge.fury.io/rb/material_design_icons)
 
-'material_design_icons' enables you to generate both HTML tags and inline SVG of [Material Design Icons](http://www.materialdesignicons.com/) for your Ruby on Rails projects.
+'material_design_icons' enables you to generate both HTML tags and inline SVG of [Material Design Icons](http://materialdesignicons.com/) for your Ruby on Rails projects.
 
 ## Installation
 
