@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [3.4.93] - 2019-01-03
+### Changed
+- Update to version 3.4.93 of [Material Design Icons][mdi].
+
 ## [3.3.92] - 2019-01-03
 ### Changed
 - Update to version 3.3.92 of [Material Design Icons][mdi].
@@ -96,6 +100,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - Basic Railtie and view helpers to add [Material Design Icons][mdi] tags and inline SVG to Ruby on Rails views.
 
+[3.4.93]: https://github.com/barrymieny/material_design_icons/compare/v3.3.92...v3.4.93
 [3.3.92]: https://github.com/barrymieny/material_design_icons/compare/v3.2.89...v3.3.92
 [3.2.89]: https://github.com/barrymieny/material_design_icons/compare/v3.0.39...v3.2.89
 [3.0.39]: https://github.com/barrymieny/material_design_icons/compare/v2.8.94...v3.0.39
