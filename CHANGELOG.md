@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [3.9.97] - 2019-08-12
+### Changed
+- Update to version 3.9.97 of [Material Design Icons][mdi].
+
 ## [3.8.95.1] - 2019-07-28
 ### Changed
 - Fix for removal of the SVG webfont.
@@ -116,6 +120,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - Basic Railtie and view helpers to add [Material Design Icons][mdi] tags and inline SVG to Ruby on Rails views.
 
+[3.9.97]: https://github.com/barrymieny/material_design_icons/compare/v3.8.95.1...v3.9.97
 [3.8.95.1]: https://github.com/barrymieny/material_design_icons/compare/v3.8.95...v3.8.95.1
 [3.8.95]: https://github.com/barrymieny/material_design_icons/compare/v3.7.95...v3.8.95
 [3.7.95]: https://github.com/barrymieny/material_design_icons/compare/v3.5.95...v3.7.95
