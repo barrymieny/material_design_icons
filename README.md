@@ -1,8 +1,14 @@
 # Material Design Icons
 
-[![Gem Version](https://badge.fury.io/rb/material_design_icons.svg)](https://badge.fury.io/rb/material_design_icons)
+[![Gem Version](https://badge.fury.io/rb/material_design_icons.svg)](https://badge.fury.io/rb/material_design_icons) ![Maintainers Wanted](https://img.shields.io/badge/maintainers-wanted-red.svg)
 
 'material_design_icons' enables you to generate both HTML tags and inline SVG of [Material Design Icons](http://materialdesignicons.com/) for your Ruby on Rails projects.
+
+## Maintainers Wanted
+
+Unfortunately, I no longer use this project and don't have the time to work on it any further. This means that bugs will not be fixed and new releases will not be added unless someone else does so.
+
+If you're interested in taking over maintenance of material_design_icons, please reply to this [GitHub issue (#9)](https://github.com/barrymieny/material_design_icons/issues/9).
 
 ## Installation
 
